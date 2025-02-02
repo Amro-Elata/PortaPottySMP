@@ -1,6 +1,6 @@
 # PortaPottySMP (Whitelist Required)
 An overview and instruction manual for the Porta Potty Minecraft SMP, hosted on Aternos.
-## In order to get started, head Over to [Releases]() page for the **Quick Start Tutorial** :)
+## In order to get started, head Over to [Releases](https://github.com/Amro-Elata/PortaPottySMP/releases/tag/Tutorial) page for the **Quick Start Tutorial** :)
 
 ![Porta-Potty-SMP](https://github.com/user-attachments/assets/12e3ac1c-d953-4932-bbca-09532433ed84)
 
